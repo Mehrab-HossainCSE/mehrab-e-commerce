@@ -38,7 +38,7 @@ export default function ProductForm({ setProducts, onClose }) {
 
   return (
     <form onSubmit={handleSubmit} className="max-w-md mx-auto mb-6 p-5 bg-white rounded-xl shadow">
-      <h2 className="text-xl font-bold mb-4">Add New Product V2</h2>
+      <h2 className="text-xl font-bold mb-4">Add New Product V2 </h2>
 
       <input
         type="text"
